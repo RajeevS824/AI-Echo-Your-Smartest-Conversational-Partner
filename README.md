@@ -117,9 +117,7 @@ Built a fully interactive **Streamlit app (`sentiment_dashboard.py`)** with the 
 | ----------------- | ----------------------------------------------------------------- |
 | **Programming**   | Python                                                            |
 | **Libraries**     | Pandas, NumPy, Matplotlib, Seaborn, NLTK, WordCloud, Scikit-learn |
-| **Visualization** | Streamlit                                                         |
-| **Deployment**    | Streamlit Cloud                               |
-
+| **Visualization** | Streamlit                                       
 ---
 
 ## 📁 Dataset Used
