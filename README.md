@@ -113,14 +113,6 @@ Built a fully interactive **Streamlit app (`sentiment_dashboard.py`)** with the 
 
 ---
 
-## 🚀 How to Run the Project
-
- **Run the Streamlit App**
-
-```bash
-streamlit run sentiment_dashboard.py
-
-
 ## 📁 Dataset Used
 
 **File:** `chatgpt_style_reviews_dataset.xlsx`
@@ -137,4 +129,14 @@ Through this project, you can:
 ✔ Empower teams to take data-backed decisions for product enhancement.
 
 It is a step toward **AI-driven customer experience analytics**.
+
+
+## 🚀 How to Run the Project
+
+ **Run the Streamlit App**
+
+```bash
+streamlit run sentiment_dashboard.py
+
+
 
