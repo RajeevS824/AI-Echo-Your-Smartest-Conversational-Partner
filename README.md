@@ -62,14 +62,23 @@ This project integrates **Python (Pandas, NLTK, Scikit-learn)** for text analysi
 Built a fully interactive **Streamlit app (`sentiment_dashboard.py`)** with the following sections:
 
 1️⃣ **Overall Sentiment Distribution** – Pie chart showing proportion of each sentiment.
+
 2️⃣ **Sentiment by Rating** – Bar chart comparing sentiment across ratings.
+
 3️⃣ **Word Clouds** – Separate clouds for Positive, Neutral, and Negative words.
+
 4️⃣ **Sentiment Trends Over Time** – Line graph tracking sentiment evolution by month.
+
 5️⃣ **Verified Purchase Analysis** – Compare sentiments between verified & non-verified users.
+
 6️⃣ **Review Length by Sentiment** – Understand emotional depth vs. word count.
+
 7️⃣ **Location-Based Sentiment** – Identify top countries with most positive or negative reviews.
+
 8️⃣ **Platform Analysis** – Contrast feedback from Web and Mobile users.
+
 9️⃣ **ChatGPT Version Analysis** – Track satisfaction across product versions.
+
 🔟 **Common Negative Words** – Identify frequent complaint terms for improvement focus.
 
 ---
