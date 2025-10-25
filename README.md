@@ -53,7 +53,7 @@ This project integrates **Python (Pandas, NLTK, Scikit-learn)** for text analysi
   * ⭐ 3 → Neutral
   * ⭐ 4–5 → Positive
 * Preprocessed reviews for token-based word cloud visualization.
-* Prepared the dataset for ML model training (TF-IDF / Word Embeddings – optional extension).
+* Prepared the dataset for ML model training (TF-IDF ).
 
 ---
 
@@ -118,7 +118,7 @@ Built a fully interactive **Streamlit app (`sentiment_dashboard.py`)** with the 
 | **Programming**   | Python                                                            |
 | **Libraries**     | Pandas, NumPy, Matplotlib, Seaborn, NLTK, WordCloud, Scikit-learn |
 | **Visualization** | Streamlit                                                         |
-| **Deployment**    | Streamlit Cloud / AWS (optional)                                  |
+| **Deployment**    | Streamlit Cloud                               |
 
 ---
 
