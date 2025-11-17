@@ -124,11 +124,11 @@ Dataset: `chatgpt_style_reviews_dataset.xlsx`
 
 ### **Technical Impact**
 
-✔ End-to-end NLP pipeline
-✔ Deployment-ready ML model
-✔ Modular codebase
-✔ Scalable for large datasets
-✔ Integrates with dashboards / APIs
+✔ End-to-end NLP pipeline<br>
+✔ Deployment-ready ML model<br>
+✔ Modular codebase<br>
+✔ Scalable for large datasets<br>
+✔ Integrates with dashboards / APIs<br>
 
 ---
 
@@ -176,15 +176,15 @@ Dataset: `chatgpt_style_reviews_dataset.xlsx`
 
 # ✨ **8. Features**
 
-✔ Real-time sentiment prediction
-✔ Word clouds for positive/negative/neutral reviews
-✔ Platform-wise sentiment comparison
-✔ Version-wise rating analysis
-✔ Most helpful review analysis
-✔ Trend visualization by time
-✔ Location-based sentiment heatmaps
-✔ Handles negation-based sentiment shifts
-✔ Clean & intuitive Streamlit interface
+✔ Real-time sentiment prediction<br>
+✔ Word clouds for positive/negative/neutral reviews<br>
+✔ Platform-wise sentiment comparison<br>
+✔ Version-wise rating analysis<br>
+✔ Most helpful review analysis<br>
+✔ Trend visualization by time<br>
+✔ Location-based sentiment heatmaps<br>
+✔ Handles negation-based sentiment shifts<br>
+✔ Clean & intuitive Streamlit interface<br>
 
 ---
 
