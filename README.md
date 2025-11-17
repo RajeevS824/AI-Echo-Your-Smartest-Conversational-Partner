@@ -18,10 +18,10 @@ It helps identify **Positive, Neutral, and Negative** user experiences, providin
 Companies receive thousands of user reviews daily, but manually analyzing them is impossible.
 This project solves the challenge by:
 
-✔ Automatically classifying user sentiment
-✔ Identifying common positive & negative themes
-✔ Analyzing review patterns over time
-✔ Understanding user concerns and satisfaction
+✔ Automatically classifying user sentiment<br>
+✔ Identifying common positive & negative themes<br>
+✔ Analyzing review patterns over time<br>
+✔ Understanding user concerns and satisfaction<br>
 
 The goal is to improve **customer experience**, **product performance**, and **feature planning**.
 
